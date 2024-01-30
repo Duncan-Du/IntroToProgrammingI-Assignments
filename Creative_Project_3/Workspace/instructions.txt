@@ -1,0 +1,33 @@
+Up
+Backwards 150.0
+Down
+ChangeColor purple
+Left 90
+Forwards 150.0
+Right 180.0
+Forwards 150.0
+Left 45.0
+Forwards 25
+Left 45.0
+Forwards 70
+Left 45.0
+Forwards 25
+Left 45.0
+Forwards 150
+Backwards 150.0
+Right 90
+Up
+Forwards 50
+Left 90
+Forwards 150
+Right 90
+Down
+ChangeColor gold
+Right 75
+Forwards 175
+Left 135
+Forwards 90
+Right 120
+Forwards 90
+Left 135
+Forwards 175
